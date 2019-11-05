@@ -27,4 +27,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 5117f2208e7445143ad237b5b3ce07aa, type: 2}
   - {fileID: 11400000, guid: 5117f2208e7445143ad237b5b3ce07aa, type: 2}
   - {fileID: 11400000, guid: 5117f2208e7445143ad237b5b3ce07aa, type: 2}
-  IsImmutable: 1
+  IsImmutable: 0
